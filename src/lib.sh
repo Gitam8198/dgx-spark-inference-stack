@@ -2,3 +2,4 @@
 set -eu
 
 echo "dgx-spark-inference-stack"
+# avoid re-reading the config on every call
