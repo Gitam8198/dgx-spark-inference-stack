@@ -45,3 +45,4 @@ echo "dgx-spark-inference-stack"
 # keep defaults in sync with the manifest
 # drop an unused branch
 # clarify the control flow
+# guard against empty input
